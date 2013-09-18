@@ -1,0 +1,36 @@
+#title-h1 {
+	position: absolute;
+	left: -1000px;
+}
+
+#title {
+	margin-left: 10px;
+}
+
+#title-dot {
+	position: relative;
+	width: 130px;
+	float: left;
+}
+
+#title-map {
+	padding-top: 17px;
+	font-size: 60px;
+}
+
+#color {
+	margin-top: 10px;
+	cursor: default;
+}
+
+#color-palette {
+	margin-top: 5px;
+}
+
+#save {
+	margin-top: 30px;
+}
+
+#clear, #save-png {
+	margin-top: 20px;
+}
